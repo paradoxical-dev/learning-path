@@ -359,7 +359,10 @@ The following is a general outline of the path I use (resources may not match wh
 
 These are the resources I am currently studying off of, from which I can provide an accurate resource, active link, price, etc.
 
-I've also included preinstalled archives of these resources within the [courses](courses/) and [books](books/) directories.
+I've also included preinstalled archives of these resources within the [courses](courses/) and [books](books/) directories. 
+
+> [!HINT]
+> Archives are in **tar.gz** format for better compression, so Windows users will need to use [**7-Zip**](https://www.7-zip.org/) to extract them.
 
 > [!WARNING]
 > If these directories become too bloated they will be removed in the future.
