@@ -361,7 +361,7 @@ These are the resources I am currently studying off of, from which I can provide
 
 I've also included preinstalled archives of these resources within the [courses](courses/) and [books](books/) directories. 
 
-> [!HINT]
+> [!TIP]
 > Archives are in **tar.gz** format for better compression, so Windows users will need to use [**7-Zip**](https://www.7-zip.org/) to extract them.
 
 > [!WARNING]
