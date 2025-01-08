@@ -359,6 +359,12 @@ The following is a general outline of the path I use (resources may not match wh
 
 These are the resources I am currently studying off of, from which I can provide an accurate resource, active link, price, etc.
 
+I've also included preinstalled archives of these resources within the [courses](courses/) and [books](books/) directories.
+
+> [!WARNING]
+> If these directories become too bloated they will be removed in the future.
+> However, the resource list shown below will remain and be updated as new resources are added.
+
 ## Year 1
 
 ### Semester 1
